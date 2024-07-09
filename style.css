@@ -1,0 +1,122 @@
+.margem {
+    border-top: 40px solid pink;    
+}
+
+.flex-container {
+    display: flex;
+    align-items:center
+}
+
+.logomarca {
+    width: 250px;
+    height: 150px;
+}
+
+.atendimento {
+    width: 40px;
+    height: 40px;
+}
+.login {
+    width: 40px;
+    height: 40px;
+}
+
+.sacola {
+    width: 40px;
+    height: 40px;
+}
+
+.js-search-input {
+    width: 750px;
+    height: 40px;
+
+}
+
+.container-md{
+    height:300px;
+}
+
+.carousel-inner{
+    height: 500px;
+}
+
+.carousel-item{
+    height: 500px;
+}
+
+.foto{
+    height: 500px;
+    width: 100vw;
+}
+
+.imagem-banner{
+    height: 420px;
+    width: 420px;
+}
+
+.entrega{
+    width: 80px;
+    height: 80px;
+}
+
+.site-seguro{
+    width: 80px;
+    height: 80px;
+}
+
+.loja{
+    width: 80px;
+    height: 80px;
+}
+
+.desconto{
+    width: 80px;
+    height: 80px;
+}
+
+.flex-container-box{
+    display: flex;
+    align-items:baseline;
+    margin: 50px;
+    border: 20px solid#DEEFE7 ;
+   
+}
+
+h2{
+    font-family: montserrat,Sans-serif, bold;
+    color: #F263C0;
+    font-size: 50px;
+    margin: 30px;
+    text-align: center;
+}
+
+.fotos-novidades{
+    width: 320px;
+    height: 320px;
+}
+
+.container-novidades{
+    height:150px;
+}
+
+.newsletter{
+    display:flex;
+    align-items:center;
+    height:850px;
+    text-align:center;
+}
+
+.instagran{
+    width: 50px;
+    height: 50px;
+}
+
+.facebook{
+    width: 50px;
+    height: 50px;
+}
+
+.whatsApp {
+    width: 50px;
+    height: 50px;
+}
